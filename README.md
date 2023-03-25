@@ -8,7 +8,9 @@ Untuk melengkapi project ini sesuai dengan kriteria, saya menambahkan comboBox u
 ## Dokumentasi
 - Kode Program
 ![program1](/Screenshots/ssKode.png)
+
 - Hasil
 ![program2](/Screenshots/ssProgram1.png)
+
 - Confirmation Prompt
 ![program3](/Screenshots/ssProgram2.png)
